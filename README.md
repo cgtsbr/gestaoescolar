@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: Sistema de Gestão de Escolas
 
 ## 🤓 Course overview and learning outcomes 
 
